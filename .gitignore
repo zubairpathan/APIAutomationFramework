@@ -1,0 +1,30 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Rider/IDE files
+.idea/
+.vscode/
+.vs/
+
+# User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Test results and reports
+/reports/
+**/TestResults/
+*.trx
+
+# NuGet
+.nuget/
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
