@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "FfLJiE7VIBo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zpa\\OneDrive - TrackMan\\Documents\\AutomationFramework\\ApiClient\\ApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.9\\microsoft.extensions.configuration.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.9\\microsoft.extensions.configuration.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.configuration.environmentvariables\\9.0.9\\microsoft.extensions.configuration.environmentvariables.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.9\\microsoft.extensions.configuration.fileextensions.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.9\\microsoft.extensions.configuration.json.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.9\\microsoft.extensions.fileproviders.abstractions.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.9\\microsoft.extensions.fileproviders.physical.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.9\\microsoft.extensions.filesystemglobbing.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.9\\microsoft.extensions.primitives.9.0.9.nupkg.sha512",
+    "C:\\Users\\zpa\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

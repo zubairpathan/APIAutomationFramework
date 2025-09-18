@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies>
+  <assembly name="ApiTests" test-framework="xUnit.net">
+
+    <collection name="ApiTests Collection" total="5" passed="5" failed="0">
+
+      <test name="Get_Objects_ReturnsList" result="Pass">
+
+      </test>
+      <test name="Post_Add_Object_ReturnsCreated" result="Pass">
+
+      </test>
+      <test name="Patch_Object_UpdatesName - POST create" result="Pass">
+
+      </test>
+      <test name="Patch_Object_UpdatesName" result="Pass">
+
+      </test>
+      <test name="Get_Objects_ByIds_ReturnsList" result="Pass">
+
+      </test>
+    </collection>
+  </assembly>
+</assemblies>

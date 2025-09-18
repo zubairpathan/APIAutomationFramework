@@ -1,0 +1,9 @@
+{
+  "name": "Test Device",
+  "data": {
+    "year": 2023,
+    "price": 1499.99,
+    "CPU model": "Intel Core i7",
+    "Hard disk size": "1TB"
+  }
+}

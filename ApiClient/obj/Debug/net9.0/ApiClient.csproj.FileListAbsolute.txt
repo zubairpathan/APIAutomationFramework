@@ -1,0 +1,12 @@
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ApiClient.csproj.AssemblyReference.cache
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ApiClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ApiClient.AssemblyInfoInputs.cache
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ApiClient.AssemblyInfo.cs
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ApiClient.csproj.CoreCompileInputs.cache
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\bin\Debug\net9.0\ApiClient.deps.json
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\bin\Debug\net9.0\ApiClient.dll
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\bin\Debug\net9.0\ApiClient.pdb
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ApiClient.dll
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\refint\ApiClient.dll
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ApiClient.pdb
+C:\Users\zpa\OneDrive - TrackMan\Documents\AutomationFramework\ApiClient\obj\Debug\net9.0\ref\ApiClient.dll
