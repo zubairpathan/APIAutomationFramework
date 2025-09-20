@@ -1,9 +1,5 @@
-﻿using System;
-using System.IO;
-using System.Text;
-using System.Collections.Generic;
+﻿using System.Text;
 using System.Security;
-using Xunit;
 
 namespace ApiTests.Setup
 {

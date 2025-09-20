@@ -1,6 +1,3 @@
-using System;
-using System.IO;
-
 namespace ApiTests.Utils
 {
     public static class TestData

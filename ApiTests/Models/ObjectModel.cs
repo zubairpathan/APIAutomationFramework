@@ -1,9 +1,22 @@
-using System;
 using System.Text.Json.Serialization;
 
 namespace ApiTests.Models
 {
-    public class ObjectModel
+    public class AddObjectResponseModel
+    {
+        [JsonPropertyName("id")]
+        public string? Id { get; set; }
+
+        [JsonPropertyName("name")]
+        public string? Name { get; set; }
+
+        [JsonPropertyName("data")]
+        public DataModel? Data { get; set; }
+
+        [JsonPropertyName("createdAt")]
+        public string? CreatedAt { get; set; }
+    }
+    public class PartialUpdateObjectResponseModel
     {
         [JsonPropertyName("id")]
         public string? Id { get; set; }

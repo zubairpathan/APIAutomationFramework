@@ -35,7 +35,7 @@ Notes:
 
 ## Continuous Integration
 
-A GitHub Actions workflow `.github/workflows/ci.yml` runs on push and pull_request (branches `dev` and `master`) and executes:
+A GitHub Actions workflow `.github/workflows/ci.yml` runs on push and pull_request (`master`) and executes:
 
 - dotnet restore
 - dotnet build
